@@ -1,8 +1,6 @@
 # Olist E-Commerce Analytics (SQL + Looker Studio)
 
 **Live dashboard:** https://datastudio.google.com/reporting/a4159253-6994-4b7f-bfde-19e318e1fa39
-![Dashboard page 1](dashboard/page1.png)
-![Dashboard page 2](dashboard/page2.png)
 
 Analysis of Olist's Brazilian e-commerce marketplace data (Kaggle) using SQL (DuckDB), Python and Looker Studio. Period analysed: Jan 2017 to Aug 2018.
 
