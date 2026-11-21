@@ -18,7 +18,7 @@ Analysis of Olist's Brazilian e-commerce marketplace data (Kaggle) using SQL (Du
 - **Categories:** The top 5 categories earn 40% of revenue. Health & beauty (+210% YoY) and watches & gifts (+242%) grew faster than the marketplace (+141%); cool stuff grew only 10%.
 - **Retention:** 97% of customers (90,315 of 93,104) bought only once; repeat customers were 3% of customers and 5.5% of revenue.
 - **Delivery vs reviews:** On-time orders averaged 4.29 stars; the 6.7% of orders delivered late averaged about 2.3, and 79% of orders 8+ days late got 1-2 star reviews (vs 9% for on-time).
-- **Where delays happen:** Late-delivery rates are highest in MA (17.5%), CE (13.8%), BA (12.2%) and RJ (12.1%) vs 4.5% in SP. [RJ accounts for X% of all late orders]
+- **Where delays happen:** Late-delivery rates are highest in MA (17.5%), CE (13.8%), BA (12.2%) and RJ (12.1%) vs 4.5% in SP. RJ accounts for 24% of late orders (1,495) from 13% of orders.
 
 ## Recommendations
 - Prioritise inventory and promotions in fast-growing categories; investigate why cool stuff stalled.
